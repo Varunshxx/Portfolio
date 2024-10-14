@@ -30,7 +30,7 @@ Make sure you have the following installed on your local machine:
 ### Cloning the Repository:
 
 ```bash
-git clone https://github.com/your-username/portolio.git
+git clone https://github.com/Varunshxx/Portfolio.git
 cd portfolio
 ```
 
